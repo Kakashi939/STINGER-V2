@@ -10,13 +10,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348187637779"
+global.ownernomer = "22367542669"
 global.ownername = "ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑"
 global.ytname = "YT: paskito"
 global.socialm = "GitHub: paskito002"
 global.location = "Nigeria,Cross River,Calabar"
 
-global.ownernumber = '2348187637779'  //creator number
+global.ownernumber = '22367542669'  //creator number
 global.ownername = 'ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑' //owner name
 global.botname = 'S҉ T҉ I҉ N҉ G҉ E҉ R҉- V҉ 2҉' //name of the bot
 
@@ -32,7 +32,7 @@ global.wm = "ES TEAMS Inc."
 global.link = 'https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y'
 
 //custom prefix
-global.prefa = ['.']
+global.prefa = ['!']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
